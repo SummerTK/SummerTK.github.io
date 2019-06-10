@@ -4,12 +4,12 @@ header-img: "img/twitter.jpg"
 tagline: "cn"  
 description: "唐康"  
 baseurl: ""
-url: "http://uchiha-peng"  
+url: "http://Summer"  
 
 # About/contact
 owner: 
-  name: "uchiha-peng"
-  email: uchiha-peng@outlook.com
+  name: "Summer"
+  email: tang14455@outlook.com
   bio: "Nice to meet you"
 
 # Data
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "uchiha-peng"
+      author: "Summer"
       header-img: "img/black.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
